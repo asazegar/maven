@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.cau.cps.cis301</groupId>
+  <artifactId>CIS301</artifactId>
+  <versioning>
+    <release>Fall2019</release>
+    <versions>
+      <version>Fall2019</version>
+    </versions>
+    <lastUpdated>20190823171650</lastUpdated>
+  </versioning>
+</metadata>
